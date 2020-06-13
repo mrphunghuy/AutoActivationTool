@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoActivationTool", "AutoActivationTool\AutoActivationTool.csproj", "{7FF1B813-D8BF-459C-BAD1-5D2BCDBA7486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FF1B813-D8BF-459C-BAD1-5D2BCDBA7486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF1B813-D8BF-459C-BAD1-5D2BCDBA7486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF1B813-D8BF-459C-BAD1-5D2BCDBA7486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF1B813-D8BF-459C-BAD1-5D2BCDBA7486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {360C3798-6E87-4D67-BE07-9236E9AC6713}
+	EndGlobalSection
+EndGlobal
